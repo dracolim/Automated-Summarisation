@@ -1,5 +1,6 @@
 # Simple Automated Summarisation 
 ![Explore flow](https://img.shields.io/badge/Build%20In-Python-blue)
+![Explore flow](https://img.shields.io/badge/Library-PyTorch%2C%20Transformer-blueviolet)
 <br>
 ## Description 
 Generate text summary using Google's Pegasus model with Huggingface transformers library
